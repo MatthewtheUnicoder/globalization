@@ -15,6 +15,49 @@ A detailed library of Microsoft fonts is available as part of the [Microsoft Typ
 
 Comments on language usage are included in cases in which associations between scripts and languages might not be well known. The list of languages for any given script isn't necessarily exhaustive.
 
+## Windows 11 Server 2025
+The list of fonts included with Windows 11 Sever 2025.
+
+More Sans Serif Collection fonts have been added to the Server 2025. It has more scripts for languages and notational systems all around the world.
+
+The following table lists scripts newly supported in Windows 11 Server 2025, and associated fonts:
+
+| New scripts | Region where script is from | Fonts | Comments on language usage |
+| ----------- | --------------------------- | ----- | -------------------------- |
+| Anatolian Hieroglyphs           | Central Asia         | Sans Serif Collection | Luwian |
+| Bassa Vah                       | Africa               | Sans Serif Collection | Bassa |
+| Bhaiksuki                       | Indian subcontinent  | Sans Serif Collection | Sanskrit |
+| Coptic Epact Numbers            | Europe               | Sans Serif Collection | Coptic Epact numeral system |
+| Cypro-Minoan                    | Europe               | Sans Serif Collection | Unknown |
+| Dives Akuru                     | Southeast Asia       | Sans Serif Collection | Divehi |
+| Duployan                        | Europe               | Sans Serif Collection | Chinook Jargon |
+| Grantha                         | Indian subcontinent  | Sans Serif Collection | Tamil |
+| Gunjala Gondi                   | Indian subcontinent  | Sans Serif Collection | Gondi |
+| Hatran                          | Central Asia         | Sans Serif Collection | Hatran Aramaic |
+| Indic Siyaq Numbers             | Central Asia         | Sans Serif Collection | Indic Siyaq numeral system |
+| Kawi                            | Southeast Asia       | Sans Serif Collection | Old Javanese |
+| Makasar                         | Southeast Asia       | Sans Serif Collection | Old Makassar |
+| Marchen                         | Central Asia         | Sans Serif Collection | Zhang-zhung |
+| Meroitic Hieroglyphs            | Central Asia         | Sans Serif Collection | Meroitic |
+| Nag Mundari                     | Indian subcontinent  | Sans Serif Collection | Mundari |
+| Nandinagari                     | Indian subcontinent  | Sans Serif Collection | Sanskrit |
+| Newa                            | Indian subcontinent  | Sans Serif Collection | Bengali, Sanskrit |
+| Nushu                           | East Asia            | Sans Serif Collection | Tuhua |
+| Old Permic                      | Europe               | Sans Serif Collection | Komi |
+| Old Uyghur                      | Central Asia         | Sans Serif Collection | Old Uyghur |
+| Ottoman Siyaq Numbers           | Central Asia         | Sans Serif Collection | Ottoman Siyaq numeral system |
+| Pahawh Hmong                    | Southeast Asia       | Sans Serif Collection | Hmong |
+| Rejang                          | Southeast Asia       | Sans Serif Collection | Redjang |
+| Siddham                         | Indian subcontinent  | Sans Serif Collection | Sanskrit |
+| Syloti Nagri                    | Indian subcontinent  | Sans Serif Collection | Sylheti |
+| Tagalog                         | Southeast Asia       | Sans Serif Collection | Tagalog |
+| Tagbanwa                        | Southeast Asia       | Sans Serif Collection | Tagalog, Tagbanwa |
+| Tangsa                          | Southeast Asia       | Sans Serif Collection | Latin |
+| Tai Tham                        | Southeast Asia       | Sans Serif Collection | Northern Thai |
+| Tai Viet                        | Southeast Asia       | Sans Serif Collection | Tai Don |
+| Tamil Supplement                | Indian subcontinent  | Sans Serif Collection | Tamil |
+| Toto                            | Central Asia         | Sans Serif Collection | Toto |
+
 ## Windows 11
 
 The list of fonts included with Windows 11 is available in the [Windows 11 font list](/typography/fonts/windows_11_font_list).
@@ -83,8 +126,10 @@ The following table lists scripts newly supported in Windows 11, and associated 
 | Sundanese Supplement           | Southeast Asia        | Sans Serif Collection | Sundanese |
 | Takri                          | Indian subcontinent   | Sans Serif Collection | Western and Central Pahari languages |
 | Tirhuta                        | Indian subcontinent   | Sans Serif Collection | Maithili, Sanskrit |
+| Vithkuqi                       | Europe                | Sans Serif Collection | Albanian |
 | Wancho                         | Indian subcontinent   | Sans Serif Collection | Wancho |
 | Warang Citi                    | Indian subcontinent   | Sans Serif Collection | Ho |
+| Yezidi                         | Central Asia          | Sans Serif Collection | Kurdish |
 | Zanabazar Square               | Central Asia          | Sans Serif Collection | Mongolian, Sanskrit, Tibetan |
 
 ## Windows 10
